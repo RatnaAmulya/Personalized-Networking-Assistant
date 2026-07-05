@@ -1,0 +1,134 @@
+[
+  {
+    "timestamp": "2026-07-04T12:26:05.387665",
+    "user": {
+      "name": "Jane",
+      "bio": "Developer bio",
+      "skills": [
+        "Python"
+      ],
+      "interests": [
+        "Tech"
+      ],
+      "profession": "Software Engineer",
+      "company": "FastTech",
+      "experience": "Senior",
+      "goals": "Network"
+    },
+    "themes": [
+      "AI",
+      "Human Resources"
+    ],
+    "starters": [
+      "Starter 1",
+      "Starter 2",
+      "Starter 3",
+      "Starter 4",
+      "Starter 5"
+    ]
+  },
+  {
+    "timestamp": "2026-07-04T13:21:07.523953",
+    "user": {
+      "name": "Jane Doe",
+      "bio": "Passionate about building scalable AI products and collaborative ecosystems.",
+      "skills": [
+        "Product Strategy",
+        "Agile",
+        "AI Product Management",
+        "UX Design"
+      ],
+      "interests": [
+        "Generative AI",
+        "Sustainable Tech",
+        "Venture Capital"
+      ],
+      "profession": "Product Manager",
+      "company": "TechNova Solutions",
+      "experience": "Senior",
+      "goals": "Connect with software engineers in AI space and meet potential co-founders."
+    },
+    "themes": [
+      "Artificial Intelligence",
+      "Education",
+      "Startup & Venture Capital"
+    ],
+    "starters": [
+      "Tanya Zinni-Koran , cofounder of Digital Robotics and founder/CEO of Yandex . Founder - atyappeo_takahashi https://www!youtube?v=VzYjQsAaUk&featureid=-3BJf5d8H9E",
+      "Hi! I noticed the discussions here are heavily centering around Artificial Intelligence. As a Product Manager interested in Generative AI, I'm curious: how do you see Artificial Intelligence shaping your field lately?",
+      "Hello, I'm Jane Doe from TechNova Solutions. I'm attending Global AI Innovators Summit with the goal of connect with software engineers in ai space and meet potential co-founders. What highlights have you encountered at this Conference so far?",
+      "Hi there! I've been applying some Product Strategy techniques in my work as a Product Manager. Given the event's theme of Education, I'd love to know if you're seeing any interesting crossovers in your industry.",
+      "Hi, I'm Jane Doe. My background is in Product Manager, and I'm really passionate about passionate about building scalable ai products and collaborative ecosystems. I was drawn to this session on Artificial Intelligence—what are your thoughts on where this trend is heading?"
+    ]
+  },
+  {
+    "timestamp": "2026-07-04T13:38:01.716347",
+    "user": {
+      "name": "Jane Doe",
+      "bio": "Passionate about building scalable AI products and collaborative ecosystems.",
+      "skills": [
+        "Product Strategy",
+        "Agile",
+        "AI Product Management",
+        "UX Design"
+      ],
+      "interests": [
+        "Generative AI",
+        "Sustainable Tech",
+        "Venture Capital"
+      ],
+      "profession": "Product Manager",
+      "company": "TechNova Solutions",
+      "experience": "Senior",
+      "goals": "Connect with software engineers in AI space and meet potential co-founders."
+    },
+    "themes": [
+      "Artificial Intelligence",
+      "Education",
+      "Startup & Venture Capital"
+    ],
+    "starters": [
+      "Hi! I noticed the discussions here are heavily centering around Artificial Intelligence. As a Product Manager interested in Generative AI, I'm curious: how do you see Artificial Intelligence shaping your field lately?",
+      "Hello, I'm Jane Doe from TechNova Solutions. I'm attending Global AI Innovators Summit with the goal of connect with software engineers in ai space and meet potential co-founders. What highlights have you encountered at this Conference so far?",
+      "Hi there! I've been applying some Product Strategy techniques in my work as a Product Manager. Given the event's theme of Education, I'd love to know if you're seeing any interesting crossovers in your industry.",
+      "Hi, I'm Jane Doe. My background is in Product Manager, and I'm really passionate about passionate about building scalable ai products and collaborative ecosystems. I was drawn to this session on Artificial Intelligence—what are your thoughts on where this trend is heading?",
+      "Hi! I'm Jane Doe. I'm deeply interested in Sustainable Tech and wanted to see how others at Global AI Innovators Summit are addressing Artificial Intelligence. What projects or challenges are keeping you busy these days?"
+    ]
+  },
+  {
+    "timestamp": "2026-07-04T14:13:50.242510",
+    "user": {
+      "name": "Ramana Panama",
+      "bio": "Deep learning student focused on quantum algorithms, neural network optimizations, and scalable AI frameworks.\n",
+      "skills": [
+        "Python",
+        "PyTorch",
+        "Deep Learning",
+        "Quantum Mechanics",
+        "Optimization Algorithms"
+      ],
+      "interests": [
+        "Generative AI",
+        "Quantum Computing",
+        "Neural Networks",
+        "Advanced Math"
+      ],
+      "profession": "Technical Student & AI Developer",
+      "company": "University Research Lab",
+      "experience": "Entry-Level",
+      "goals": "Connect with academic mentors, deep learning researchers, and potential project collaborators.\n"
+    },
+    "themes": [
+      "Artificial Intelligence",
+      "Data Science",
+      "Sustainability & Green Tech"
+    ],
+    "starters": [
+      "Intro to Deep Learning and Machine learning (Coding Principles) by Nils Höglund - http://www-learnboticslab/nilhoblungs_englevigations.html 2.\"MachineLearning with Big Ideas\" https:/ / youtube .com/watch? v=zW6eI5iJ3Yg 3 \"Building the Future of Computer Vision from Automated Image Processing through Designing Applications Based On Visualization Techniques\", The MIT Press",
+      "Hi! I noticed the discussions here are heavily centering around Artificial Intelligence. As a Technical Student & AI Developer interested in Generative AI, I'm curious: how do you see Artificial Intelligence shaping your field lately?",
+      "Hello, I'm Ramana Panama from University Research Lab. I'm attending International Symposium on Next-Gen Computing and Neural Architectures with the goal of connect with academic mentors, deep learning researchers, and potential project collaborators.\n. What highlights have you encountered at this Conference so far?",
+      "Hi there! I've been applying some Python techniques in my work as a Technical Student & AI Developer. Given the event's theme of Data Science, I'd love to know if you're seeing any interesting crossovers in your industry.",
+      "Hi, I'm Ramana Panama. My background is in Technical Student & AI Developer, and I'm really passionate about deep learning student focused on quantum algorithms, neural network optimizations, and scalable ai frameworks.\n. I was drawn to this session on Artificial Intelligence—what are your thoughts on where this trend is heading?"
+    ]
+  }
+]
