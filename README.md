@@ -41,6 +41,7 @@ PersonalizedNetworkingAssistant/
 
 ---
 
+
 ## 🚀 Getting Started
 
 ### 1. Prerequisites
@@ -96,6 +97,7 @@ streamlit run frontend/streamlit_app.py
 - **Frontend Dashboard**: [http://localhost:8501](http://localhost:8501)
 
 ---
+
 
 ## 🧪 Testing
 
